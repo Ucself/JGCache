@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JGCache_Example' do
+  pod 'JGCache', :path => '../'
+
+  target 'JGCache_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

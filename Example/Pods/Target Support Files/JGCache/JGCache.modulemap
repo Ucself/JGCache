@@ -1,0 +1,6 @@
+framework module JGCache {
+  umbrella header "JGCache-umbrella.h"
+
+  export *
+  module * { export * }
+}
