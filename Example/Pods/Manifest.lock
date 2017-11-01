@@ -1,5 +1,5 @@
 PODS:
-  - JGCache (0.1.0):
+  - JGCache (1.0.0):
     - ObjectMapper (~> 3.0.0)
   - ObjectMapper (3.0.0)
 
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  JGCache: afab4e6c73e5224d3b0f46559a80d3abaf935239
+  JGCache: 6df4f711f1ed72d6b642b58e49782a6e2d1e72c4
   ObjectMapper: 92230db59bf8f341a5c3a3cf0b9fbdde3cf0d87f
 
 PODFILE CHECKSUM: c5a4d367e42f96fe965c1ba2a4c9615becdfef3b

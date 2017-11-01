@@ -1,6 +1,6 @@
 {
   "name": "JGCache",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "this is description",
   "description": "TODO: this is description",
   "homepage": "https://github.com/Ucself/JGCache",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/Ucself/JGCache.git",
-    "tag": "0.1.0"
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "8.0"

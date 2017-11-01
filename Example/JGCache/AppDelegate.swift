@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import JGCache
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
